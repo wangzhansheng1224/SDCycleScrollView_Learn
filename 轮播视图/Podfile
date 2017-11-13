@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target'轮播视图'do
+    pod 'SDCycleScrollView', '~> 1.73'
+end
